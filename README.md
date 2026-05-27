@@ -56,4 +56,4 @@ The dataset contains transactional sales records including:
 - SQL Querying
 - Data Aggregation
 - Data Analysis
-- - Analytical Thinking
+- Analytical Thinking
