@@ -16,7 +16,7 @@ The dataset contains transactional sales records including:
 ## Tools Used
 - SQLite
 - DB Browser for SQLite
--
+
   
 
 ## SQL Concepts Used
