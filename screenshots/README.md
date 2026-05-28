@@ -1,4 +1,4 @@
-# SQL Project Screenshots
+## SQL Project Screenshots
 
 This folder contains screenshots of SQL queries and query outputs used in the SQL Sales Data Analysis Project.
 
